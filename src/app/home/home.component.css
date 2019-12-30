@@ -1,0 +1,50 @@
+.headerPoster{
+    width:100%;
+    float:left;
+}
+.headerPoster p{
+    background-color:blue;
+    text-align:center;
+    border-radius:4px;
+    padding:1.5em;
+    margin:1em;
+    width:60%;
+    color:white;
+    font-size:1.5em;
+}
+
+/*user login Icon */
+.usr-icon {
+    width:10%;
+    float:right;
+    position:absolute;
+    top:2em;
+    left:45em;
+}
+.shoppingCart{
+    width:70%;
+    float:right;
+    position:relative;
+    left:5em;
+    top:-5em;
+}
+/* Product List */
+
+.in-line{
+    display: inline-block;
+}
+
+.sub-menu {
+    width: 10em;
+    background-color: aqua;
+    text-align:center;
+    padding:0.5em;
+    font-size:25px;
+    margin:0em;
+    
+}
+.categories{
+    margin: 10px;
+    text-decoration-line: underline;
+    
+}
